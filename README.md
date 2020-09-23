@@ -1,3 +1,4 @@
+```
 usage: tophits [-h] [-n NUMBER_OF_HITS] [-e E_VALUE_CUTOFF] [-d] [-s] [-m]
                [-r]
                blast_file
@@ -25,3 +26,4 @@ optional arguments:
                         increase memory efficiency (default: False)
   -r, --redundant_ids   allow query and subject to share the same identifier
                         (default: False)
+```
